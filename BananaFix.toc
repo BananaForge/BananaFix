@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: |cffffd100Banana|r|cff8b5a2bFix|r
+## Notes: BananaForge - Behebt den Turtle_ChallengesCache-Fehler im Target-Frame auf OctoWoW
+## Author: BananaForge - Tel'Abims Bananenbande
+## Version: 1.0.0
+BananaFix.lua
